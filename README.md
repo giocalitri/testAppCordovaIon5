@@ -1,5 +1,3 @@
 # testAppCordovaIon5
 
 
-
-
