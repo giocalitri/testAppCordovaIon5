@@ -1,8 +1,8 @@
 {
   "name": "testAppCordovaIon5",
   "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "author": "Giovanni Di Milia",
+  "homepage": "https://dimilia.it",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -69,8 +69,8 @@
       "cordova-plugin-ionic-keyboard": {}
     },
     "platforms": [
-      "android",
-      "ios"
+      "ios",
+      "android"
     ]
   }
 }
